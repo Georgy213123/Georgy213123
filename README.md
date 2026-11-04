@@ -18,18 +18,20 @@ Claude Code и Codex — основные инструменты в этой р�
 в браузере через Playwright MCP → релиз.
 Подробно — в [ai-workflow](https://github.com/Georgy213123/ai-product-engineering/tree/main/ai-workflow).
 
-## Витрина
+## Проекты
 
-[**ai-product-engineering**](https://github.com/Georgy213123/ai-product-engineering) — три кейса,
-у каждого полный путь от постановки задачи до релиза, у каждого рабочий код:
+Три кейса, у каждого полный путь от постановки задачи до релиза, рабочий код, тесты и CI:
 
-| Кейс | О чём | Стек |
+| Проект | О чём | Стек |
 |---|---|---|
-| SellerDesk | рабочее место оператора продавца на маркетплейсах: чаты, отзывы, AI-черновики | FastAPI · PostgreSQL · React · Playwright |
-| ShopProbe | автоматическая приёмка интернет-витрины с перепроверкой находок | Playwright · axe-core · FastAPI · React |
-| OrderFlow | мастерская на заказ: заявка → конструкция → смета, упор на системный анализ | FastAPI · PostgreSQL · React |
+| [**SellerDesk**](https://github.com/Georgy213123/sellerdesk) | рабочее место оператора продавца на маркетплейсах: чаты, отзывы, AI-черновики | FastAPI · PostgreSQL · React · Playwright |
+| [**ShopProbe**](https://github.com/Georgy213123/shopprobe) | автоматическая приёмка интернет-витрины с перепроверкой находок | Playwright · axe-core · FastAPI · React |
+| [**OrderFlow**](https://github.com/Georgy213123/orderflow) | мастерская на заказ: заявка → конструкция → смета, упор на системный анализ | FastAPI · PostgreSQL · React |
 
-Коммерческий код лежит у заказчиков в закрытых репозиториях, поэтому кейсы витрины
+Общая навигация, процесс работы с агентами и где AI ошибался —
+в [**ai-product-engineering**](https://github.com/Georgy213123/ai-product-engineering).
+
+Коммерческий код лежит у заказчиков в закрытых репозиториях, поэтому кейсы
 написаны заново на вымышленных данных за два дня, 3–4 ноября 2026. Боевые системы
 показываю на созвоне со своего экрана.
 
