@@ -25,7 +25,7 @@ Claude Code и Codex — основные инструменты в этой р�
 
 | Проект | О чём | Стек |
 |---|---|---|
-| [**SellerDesk**](https://github.com/Georgy213123/sellerdesk) | рабочее место оператора продавца на маркетплейсах: чаты, отзывы, AI-черновики | FastAPI · PostgreSQL · React · Playwright |
+| [**SellerDesk**](https://github.com/Georgy213123/sellerdesk) | рабочее место оператора продавца на маркетплейсах: чаты, отзывы, AI-черновики, автономный агент-маркетолог | FastAPI · PostgreSQL · React · Playwright |
 | [**ShopProbe**](https://github.com/Georgy213123/shopprobe) | автоматическая приёмка интернет-витрины с перепроверкой находок | Playwright · axe-core · FastAPI · React |
 | [**OrderFlow**](https://github.com/Georgy213123/orderflow) | мастерская на заказ: заявка → конструкция → смета, упор на системный анализ | FastAPI · PostgreSQL · React |
 
